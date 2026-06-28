@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/subasri212005/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/subasri212005/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subasri212005/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3925-concatenate-array-with-reverse](https://github.com/subasri212005/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/subasri212005/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/subasri212005/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/subasri212005/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
