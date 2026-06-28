@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/subasri212005/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/subasri212005/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subasri212005/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/subasri212005/leetcode_solutions/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/subasri212005/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/subasri212005/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/subasri212005/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subasri212005/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3668-restore-finishing-order](https://github.com/subasri212005/leetcode_solutions/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
