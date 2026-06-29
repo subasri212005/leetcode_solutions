@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/subasri212005/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/subasri212005/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/subasri212005/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/subasri212005/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/subasri212005/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subasri212005/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subasri212005/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/subasri212005/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/subasri212005/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
